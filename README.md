@@ -77,14 +77,6 @@ http://localhost:5173
 
 A downloadable resume is included in the portfolio for recruitment purposes.
 
-📬 Contact
-
-Email: your-email@example.com
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-profile
-
 📌 Future Improvements
 
 Animations
